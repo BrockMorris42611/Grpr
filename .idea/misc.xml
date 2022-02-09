@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/IAD/Grpr/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/IAD/Grpr/app/src/main/res/layout/create_acc_fragment.xml" value="0.1875" />
+        <entry key="..\:/IAD/Grpr/app/src/main/res/layout/fragment_choose.xml" value="0.17447916666666666" />
+        <entry key="..\:/IAD/Grpr/app/src/main/res/layout/sign_in_fragment.xml" value="0.17447916666666666" />
       </map>
     </option>
   </component>
